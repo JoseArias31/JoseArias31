@@ -10,7 +10,7 @@
 
 ### 👉 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,&perline=3)](https://skillicons.dev)
 
 ### 👉 Frontend Development
 <p align="left"> 
