@@ -23,7 +23,7 @@
 
  ### 👉 Software & Tools
  
-[![My Skills](https://skillicons.dev/icons?i=,git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=10)](https://skillicons.dev)
 
 ## 📊 Github Stats (Expand to View) 
 
