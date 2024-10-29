@@ -9,21 +9,15 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,&perline=4)](https://skillicons.dev)
-
 ### 👉 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,&perline=4)](https://skillicons.dev)
-
 ### 👉 Databases & Cloud Hosting
-[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,&perline=4)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,&perline=4)](https://skillicons.dev)  
 ### 👉Graphic Designing
 [![My Skills](https://skillicons.dev/icons?i=figma,sketchup,&perline=4)](https://skillicons.dev)
-
- ### 👉 Software & Tools
- 
-[![My Skills](https://skillicons.dev/icons?i=git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=10)](https://skillicons.dev)
+ ### 👉 Software & Tools 
+[![My Skills](https://skillicons.dev/icons?i=git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=12)](https://skillicons.dev)
 
 ## 📊 Github Stats (Expand to View) 
 
