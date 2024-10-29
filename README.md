@@ -17,7 +17,7 @@
 ### 👉Graphic Designing
 [![My Skills](https://skillicons.dev/icons?i=figma,sketchup,&perline=4)](https://skillicons.dev)
  ### 👉 Software & Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=13)](https://skillicons.dev)
 
 ## 📊 Github Stats (Expand to View) 
 
