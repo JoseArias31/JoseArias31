@@ -17,9 +17,8 @@
 ### 👉Graphic Designing
 [![My Skills](https://skillicons.dev/icons?i=figma,sketchup,&perline=4)](https://skillicons.dev)
  ### 👉 Version Control & Software 
-[![My Skills](https://skillicons.dev/icons?i=github,git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=15)](https://skillicons.dev)
 
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
