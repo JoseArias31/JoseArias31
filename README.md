@@ -10,39 +10,16 @@
 
 ### 👉 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,&perline=4)](https://skillicons.dev)
 
 ### 👉 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,&perline=4)](https://skillicons.dev)
 
 ### 👉 Databases & Cloud Hosting
-[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,&perline=4)](https://skillicons.dev)
   
 ### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+[![My Skills](https://skillicons.dev/icons?i=canva,figma,&perline=4)](https://skillicons.dev)
 
  ### 👉 Software & Tools
  
