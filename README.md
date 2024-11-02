@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,azure,discord,docker,nodejs,npm,postman,powershell,vscode,wordpress,vite,autocad,&perline=15)](https://skillicons.dev)
 
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect!
 <p align="center">
   <a href="https://portfolio-2024-ne00krb0m-josearias31s-projects.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:gojosearias@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
